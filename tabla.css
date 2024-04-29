@@ -1,0 +1,30 @@
+body {background-color:#696840;}
+
+
+.enca{font-size: 40px;
+text-align: center;
+font-family: monospace;}
+
+
+
+.title{font-family:fantasy;
+font-size:50px;}
+
+.tabla, .par{ font-family: monospace;
+font-size: 25px;}
+
+.tabla,.enca {background: linear-gradient(#7413EB, #664193, #36303E);}
+
+
+.una {background: linear-gradient(#7413EB, #664193, #36303E) ;
+    }
+
+.horas{font-style:italic;}
+
+.dias{color:  #E8E51A;
+font-size:30px ;}
+
+.horas{color:#A8A73D;}
+
+
+

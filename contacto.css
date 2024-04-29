@@ -1,0 +1,30 @@
+body {background-repeat: cover;
+    padding-left: 0px;
+    padding-top: 10px;
+    padding-bottom: 40px;
+    padding-right: 20px;
+    background-size: cover;
+     background-image: url(https://wallpapers.com/blog/wp-content/uploads/2023/06/Web-development-concept-with-person-using-a-laptop-computer.jpeg);
+ }
+
+ .fondo {width: 50%;
+    margin-left: auto; margin-right: auto;
+    border-style: double;
+    padding: 10px;
+    max-width: 75%;
+    border-radius: 30px;
+    border: rgba(34, 18, 90, 0.756) outset 10px  ;
+    background:rgba(70, 34, 201, 0.647);
+     
+    }
+
+.saludo {font-size: 50px;
+        text-align: center;
+        font-family:fantasy;} 
+        
+.hola{font-size: 15px;
+    text-align: center;
+    font-family:sans-serif;} 
+
+.texto{max-width:300px ;
+max-height: 300px;}

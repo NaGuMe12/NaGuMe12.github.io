@@ -1,0 +1,90 @@
+body {background-repeat: cover;
+   padding-left: 0px;
+   padding-top: 0px;
+   padding-bottom: 40px;
+   padding-right: 20px;
+   background-size: cover;
+    background-image: url(https://wallpapers.com/blog/wp-content/uploads/2023/06/Web-development-concept-with-person-using-a-laptop-computer.jpeg);
+}
+
+                                            /* FONDOS */
+            /* TITULO */
+.fondo {width: 50%;
+    margin-left: auto; margin-right: auto;
+    border-style: double;
+    padding: 10px;
+    max-width: 75%;
+    border-radius: 30px;
+    border: rgba(34, 18, 90, 0.756) outset 10px  ;
+    background:rgba(70, 34, 201, 0.647);
+     
+    }
+
+.enca{background-color:rgba(70, 34, 201, 0.647);
+    border-radius: 15px;
+    border-style: double;
+    border: rgba(34, 18, 90, 0.756) outset 10px  ;
+    width: 100%;
+    height:5% ;
+    font-family: fantasy;
+    font-size:25px;
+    text-align: center;}   
+
+            /* CAJA IZQUIERDA */
+    .izquierda{width: 21%;
+        margin-left: 10px; 
+        border-style: double;
+        padding-block:auto;
+        border-radius: 15px;
+        border: rgba(34, 18, 90, 0.756) outset 10px  ;
+            background-color:rgba(70, 34, 201, 0.647);}
+
+
+                                            /* FUENTES */
+    /* TITULO */
+
+.saludo {font-size: 50px;
+    text-align: center;
+    font-family:fantasy;}
+
+    /* NAV */
+.saludos {font-size: 20px;
+    font-family:monospace ;
+    color: rgb(234, 0, 255) ;
+    padding-left: 25%;}
+
+    /* LISTA IZQUIERDA */
+.lista {font-size: 25px;
+    font-family:monospace ;
+    color: black ;
+    padding-left: 10%;
+    padding-bottom: 0%;
+    padding: auto;
+    }
+
+    .uno { background-color:rgba(70, 34, 201, 0.647);
+        border-radius: 15px;
+        border-style: double;
+        border: rgba(34, 18, 90, 0.756) outset 10px  ;
+        width: 100%;
+        height:5% ;
+        font-family: fantasy;
+        font-size:25px;
+        text-align: center;
+        padding: auto;;}
+
+
+
+                                            /* ENLACE */
+    
+a{color: black;}
+
+a:visited {color:black;}
+
+a:hover {color: blueviolet;}
+
+a:active {color:blue ;}
+
+
+
+
